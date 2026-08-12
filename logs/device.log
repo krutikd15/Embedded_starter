@@ -1,0 +1,26 @@
+22:15:44 INFO  System Starting
+22:15:44 INFO  Sensor Initialized Successfully
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 31.1 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 36.1 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 33.9 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 39.0 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 31.6 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 24.2 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 25.0 C
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 42.0 C
+22:15:44 WARN  High temperature detected
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 43.3 C
+22:15:44 WARN  High temperature detected
+22:15:44 DEBUG Reading temperature sensor
+22:15:44 INFO  Temperature = 41.1 C
+22:15:44 WARN  High temperature detected
+22:15:44 INFO  System Shutting Down
