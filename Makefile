@@ -5,7 +5,8 @@ CFLAGS = -Wall -Wextra -Iinclude
 SRC = src/main.c \
       src/logger.c \
       src/sensor.c \
-      src/system_monitor.c
+      src/system_monitor.c \
+      src/uart.c
 
 TARGET = device_monitor.exe
 

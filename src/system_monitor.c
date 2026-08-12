@@ -3,6 +3,7 @@
 #include "sensor.h"
 #include "logger.h"
 #include "system_monitor.h"
+#include "uart.h"
 
 void system_monitor_run(void)
 {
@@ -25,6 +26,8 @@ void system_monitor_run(void)
     );
 
     log_info(message);
+    uart_send_string(message);
+    uart_send_string("\n");
 
     if (temperature > 40.0f)
     {
