@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
